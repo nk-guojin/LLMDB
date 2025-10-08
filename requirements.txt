@@ -1,0 +1,7 @@
+numpy                     1.23.5
+openai                    1.106.1
+pandas                    2.3.2
+pylcs                     0.1.1
+scikit-learn              1.6.1
+torch                     1.11.0+cu113
+tqdm                      4.67.1
